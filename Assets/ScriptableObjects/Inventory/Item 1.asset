@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f06393b4540e79044b05b1fa0a149a29, type: 3}
+  m_Name: Item 1
+  m_EditorClassIdentifier: 
+  Name: Xiao Rock
+  ID: 0
+  imageName: {fileID: 21300000, guid: 2c845fbc2175b52428f0f16c259e1259, type: 3}
+  Description: A rock made from crystallized depression
+  rarity: Common
